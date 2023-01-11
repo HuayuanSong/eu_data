@@ -2,5 +2,5 @@ eurostatapiclient==0.2.7
 plotly==5.7.0
 streamlit==1.11.1
 pandas==1.3.5
-
+matplotlib==3.6.2
 
