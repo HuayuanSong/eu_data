@@ -1,14 +1,5 @@
-intro_text = """Welcome to the EU Data Explorer. This is a small dashboard app displaying data for EU countries sourced from [EuroStat](https://ec.europa.eu/eurostat/web/nuts/background) 
-    and [OurWorldinData](https://ourworldindata.org/). Statistical analyses and simple regression modelling is showcased in the Indicators and Analyses pages, respectively."""
+intro_text = """Welcome to the EU Data Explorer. This is a small dashboard app displaying data for EU countries sourced from [EuroStat](https://ec.europa.eu/eurostat/web/nuts/background). Statistical analyses and simple regression modelling is showcased in the Analyses page."""
 
-
-indicators_text = """ 
-This panel provides statistical indicators and analyses for EU countries. You can easily see the graph of your preference
-by choosing a country and a corresponding indicator below. Moreover, you can click on the
-<a href ="/Analysis" target = "_self">Analysis</a> page for regression modelling.
-
------
-"""
 
 analysis_text = """ 
 The app page presents statistical analyses of data for administrative regions in
